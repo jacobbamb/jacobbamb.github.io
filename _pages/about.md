@@ -24,6 +24,7 @@ latest_posts:
 ---
 
 Bonjour / Hej / Hi!
+
 I am Jacob, a DPhil candidate at University of Oxford, supervised by [Professor Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Professor Xiaowen Dong](https://web.media.mit.edu/~xdong/).
 My research explores how tools from geometry, topology, and algebra -- particularly differential geometry -- can be used to tackle problems in modern deep learning, such as graph neural networks and generative models.
 
