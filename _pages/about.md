@@ -34,4 +34,4 @@ My research explores how tools from geometry, topology, and algebra -- particula
 Before Oxford, I completed an MSc in Computer Science at EPFL.
 In a previous life, I was an aspiring mathematician: I earned a BSc (Honours) in Mathematics and an accelerated MSc in Mathematics, where I focused on Geometric Group Theory under the supervision of [Professor Daniel Wise](https://en.wikipedia.org/wiki/Daniel_Wise_(mathematician)). 
 
-Along the way, I have also interned in various tech companies and startups, including (Giotto.ai)[https://www.giotto.ai/] and (Oracle Labs)[https://labs.oracle.com/pls/apex/r/labs/labs/intro].
+Along the way, I have also interned in various tech companies and startups, including [Giotto.ai)](https://www.giotto.ai/) and [Oracle Labs](https://labs.oracle.com/pls/apex/r/labs/labs/intro).
